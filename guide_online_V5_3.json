@@ -65,36 +65,29 @@
 
  "Data": [
     {
-      "id": 1,
+      "id": 3,
       "name_category": "Easy",
       "title": "Game Summary & Game Play",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_RmRVAf8bizvo8w7j3MEg_sdon3RxddH6Q&usqp=CAU",
       "description": "Poppy play huggy game summary, game play, and game plot.",
-      "link": ""
+      "link": "https://sirasaka212.github.io/poppyplayhuggy/1-Newest_Game_Summary-Game_Play.html"
     },
     {
       "id": 2,
       "name_category": "Easy",
-      "title": "Secrets You Can Find in the Game",
-      "image": "https://modgameapk.net/wp-content/uploads/2019/06/Toca-Life-World-graphics.jpg",
-      "description": "We’ll discuss many of the secrets that you will likely find in this educational game.",
-      "link": "https://sirasaka212.github.io/bocatocaguide/3-SecretsYouCanFindintheGame.html"
+      "title": "Guide for Chapter 1 - A Tight Squeeze",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkdUIxrcT52nA3j0Fukcl0EdUZuDB0IzFGyg&usqp=CAU",
+      "description": "Help you to complete this first chapter named A Tight Squeeze.",
+      "link": "https://sirasaka212.github.io/poppyplayhuggy/2-Chapter_One_A_Tight_Squeeze.html"
     },
     {
       "id": 3,
       "name_category": "Easy",
-      "title": "Helpful Tips & Hints You Should Know",
-      "image": "https://lh3.googleusercontent.com/IoKt9T27DEvdb-iCoF8zgOkSITcMnCAenEISpZc0OJrtNPuQfj7T8UR62yCQQJNqDA=w720-h310",
-      "description": "Helpful tips and hints to get the most out of playing Tocalife World continue reading to discover a handy guide full of invaluable tips.",
-      "link": "https://sirasaka212.github.io/bocatocaguide/2-HelpfulTipsHintsYouShouldKnow.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Medium",
-      "title": "Boca Toca & TocaLifeWorld",
-      "image": "https://img.utdstc.com/screen/d22/9d2/d229d28f5c40962fac2058f22ace341806b85cad45dcf5adbc94e44d43c2ce3f:800",
-      "description": "History of Boca Toca developer, their achievements and success in taking children digital toys and games market.",
-      "link": "https://sirasaka212.github.io/bocatocaguide/1-BocaTocaLifeWorld.html"
+      "title": "Poppy Playhuggy - Make A Friend Puzzle Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJdII39bRbIl7Ei8BaY83kgD7DA5i4LAdZg&usqp=CAU",
+      "description": "It is a horror puzzle adventure that tasks you with surviving the vengeful toys waiting for you in the abandoned toy factory.",
+      "link": "https://sirasaka212.github.io/poppyplayhuggy/3-Make-A-Friend_Puzzle_Guide.html"
     }
+   
   ]
 }
